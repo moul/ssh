@@ -5,7 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/gliderlabs/ssh)](https://goreportcard.com/report/github.com/gliderlabs/ssh) 
 [![OpenCollective](https://opencollective.com/ssh/sponsors/badge.svg)](#sponsors)
 [![Slack](http://slack.gliderlabs.com/badge.svg)](http://slack.gliderlabs.com) 
-[![Email Updates](https://img.shields.io/badge/updates-subscribe-yellow.svg)](https://app.convertkit.com/landing_pages/243312)
+[![Email Updates](https://img.shields.io/badge/updates-subscribe-yellow.svg)](https://app.convertkit.com/landing_pages/243312) [![GuardRails badge](https://badges.production.guardrails.io/moul/ssh.svg)](https://www.guardrails.io)
 
 > The Glider Labs SSH server package is dope.  &mdash;[@bradfitz](https://twitter.com/bradfitz), Go team member
 
